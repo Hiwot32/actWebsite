@@ -1,0 +1,19 @@
+.outer-section{
+    background-image: url("https://act.edu.et/assets/img/bg4.png");
+    height:600px;
+   background-size: cover;
+   background-color: aquamarine;
+}
+.client-logo {
+    max-width: 150px;
+    height: auto;
+    margin: 10px;
+}
+.text{
+    margin-top: 240px;
+}
+.card{
+    height:400px;
+    width:400px;
+}
+
