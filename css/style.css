@@ -1,6 +1,7 @@
 .outer-section{
     background-image: url("https://act.edu.et/assets/img/bg4.png");
     height:600px;
+    background-position: center;
    background-size: cover;
    background-color: aquamarine;
 }
